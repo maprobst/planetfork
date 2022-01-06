@@ -44,4 +44,4 @@
 
 ## Action WIP
 The GitHub Action is created under folder .github/workflow with name main.yml and uses the existing [wip action] (https://github.com/wip/action).
-The action sets a pull request status to pending if the title includes "WIP".
+The action sets a pull request status to pending if the title includes WIP.
